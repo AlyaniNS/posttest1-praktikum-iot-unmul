@@ -20,4 +20,4 @@ No | NIM        | Nama                           | Tugas
 ---|------------|--------------------------------|-----------
 1  | 1915026021 |Muhammad Dicky Rizqia Nur Achmar| Konfigurasi Piezzo Buzzer
 2  | 2009106100 | Alyani Noor Septalia           | Konfigurasi LED & Web Server
-3  | 2009106112 | Adrian Tasmin                  |  Membuat Rangkaian Sirkuit
+3  | 2009106112 | Adrian Tasmin                  |  Membuat Rangkaian 
